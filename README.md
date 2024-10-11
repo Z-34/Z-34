@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Z-34
 - 👀 I’m interested in computer programming , but I am not so good at it.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C/C++.
 - 💞️ I’m looking to collaborate on C projects with all of you.
 
 <!---
